@@ -21,3 +21,5 @@ Những thông tin mình tìm kiếm được về chip RAM trên bo này.
 - Speed: 4266 Mbps
 - Voltage: 1.8 / 1.1 / 0.6 V
 - Organization: x32
+
+Ngày 05/10/2025, mình có thêm một số thông tin là bản v2.1 của Orange Pi 3B 8GB sử dụng RAM Micron MT53E2G32D4DE-046 WT:C (https://www.micron.com/products/memory/dram-components/lpddr4/part-catalog/part-detail/mt53e2g32d4de-046-wt-c) và bản v1.1.1 8GB sử dụng chip SK Hynix H54G68CYRBX248N
